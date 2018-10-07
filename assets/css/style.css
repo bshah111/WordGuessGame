@@ -1,0 +1,51 @@
+
+
+body{
+  background-image: url("../images/depositphotos_71383761-stock-illustration-light-bulb-flat-iconeps10-seamless.jpg" )
+}
+
+header{
+  border: 5px solid black;
+  font-size: 20px;
+  text-align: center;
+  margin: 15px auto;
+  height: 150px;
+  width: 80%;
+  background-color:lightgoldenrodyellow;
+}
+
+.underScore{
+  border: 5px solid black;
+  font-size: 30px;
+  text-align: center;
+  margin: 15px auto;
+  height: 150px;
+  width: 80%;
+  background-color:lightgoldenrodyellow;
+  font-weight: bolder;
+
+}
+
+.rightGuess{
+  border: 5px solid black;
+  font-size: 30px;
+  text-align: center;
+  margin: 15px auto;
+  height: 150px;
+  width: 80%;
+  background-color:lightgoldenrodyellow;
+  font-weight: bolder;
+
+}
+
+.wrongGuess{
+  border: 5px solid black;
+  font-size: 30px;
+  text-align: center;
+  margin: 15px auto;
+  height: 150px;
+  width: 80%;
+  background-color:lightgoldenrodyellow;
+  font-weight: bolder;
+
+}
